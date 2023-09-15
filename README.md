@@ -1,7 +1,7 @@
 <h1>Alcohol and Marijuana Study</h1>
 
 <h2>Description:</h2>
-This study looks at alcohol and marijuana use and frequency factors as related to age demographics in data obtained from githubusercontent.com. When run, data is analyzed and modelled into line plots, highlighting trend differences in the data.
+This study looks at alcohol and marijuana use and frequency factors as related to age demographics in data obtained from a dataset. Data was obtained from githubusercontent.com. When run, data is analyzed and modelled into line plots, highlighting trend differences in the data.
 <br />
 
 
