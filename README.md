@@ -6,7 +6,7 @@ This study looks at alcohol and marijuana use and frequency factors as related t
 
 <p align="center">
 <br />
-<img src="https://github.com/andrew-disario/alcohol-and-marijuana-study/blob/main/output.png?raw=true" height="40%" width="40%" alt="Anomaly Detection Model"/>
+<img src="https://github.com/andrew-disario/alcohol-and-marijuana-study/blob/main/output.png?raw=true" height="40%" width="40%" alt="Alcohol and Marijuana Study"/>
 <br />
 
 <h2>Languages and Libraries:</h2>
